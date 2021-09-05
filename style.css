@@ -1,0 +1,41 @@
+/* O celular do codeflutter */
+.flutterapp{
+  width: 300px;
+  height: 600px;
+  background: #fff;
+  border: 5px solid graytext;
+  border-radius: 25px;
+  position: relative;
+  top: 50px;
+  left: 300px;
+  box-shadow: 5px 5px 4px;
+}
+
+html{
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.toolbar{
+  height: 50px;
+  background: white;
+  width: 103%;
+  position: relative;
+  right: 15px;
+  top: 60px;
+  align-items: center;
+}
+
+.bar{
+  text-align: center;
+  background: white;
+  width: 108%;
+  right: 15px;
+  position: relative;
+  top: -16px;
+}
+
+#text{
+  position: relative;
+  top: 5px;
+  right: -5px;
+}
